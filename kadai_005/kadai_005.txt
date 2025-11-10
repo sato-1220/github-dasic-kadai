@@ -1,0 +1,11 @@
+commit 99fc79ca9180e8059e3d74ace935f431d22776e6 (HEAD -> main)
+Author: tarou-samurai <s.sato@e-taise.co.jp>
+Date:   Mon Nov 10 17:45:05 2025 +0900
+
+    日本語訳を追記
+
+commit 2db82ea02db47513b5d9a694b21772d7546b2dab
+Author: tarou-samurai <s.sato@e-taise.co.jp>
+Date:   Mon Nov 10 17:44:20 2025 +0900
+
+    hello_world.txtを追加
